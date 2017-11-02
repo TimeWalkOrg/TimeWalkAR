@@ -151,7 +151,7 @@ PlayerSettings:
     Android: com.Company.ProductName
     Standalone: unity.Unity Technologies.Native Rendering Plugin Example
     Tizen: com.Company.ProductName
-    iOS: com.unity.depot
+    iOS: com.unity.oldmill
     tvOS: com.Company.ProductName
   buildNumber:
     iOS: 1
@@ -202,12 +202,12 @@ PlayerSettings:
   tvOSLargeIconLayers: []
   tvOSTopShelfImageLayers: []
   tvOSTopShelfImageWideLayers: []
-  iOSLaunchScreenType: 0
+  iOSLaunchScreenType: 1
   iOSLaunchScreenPortrait: {fileID: 0}
   iOSLaunchScreenLandscape: {fileID: 0}
   iOSLaunchScreenBackgroundColor:
     serializedVersion: 2
-    rgba: 3452816845
+    rgba: 3439329280
   iOSLaunchScreenFillPct: 100
   iOSLaunchScreenSize: 100
   iOSLaunchScreenCustomXibPath: 

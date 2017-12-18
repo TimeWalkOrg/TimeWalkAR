@@ -160,6 +160,8 @@ dd6501652c91cb163a39e051d37a965f Assembly-CSharp.dll:.Ballz
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARAmbient
 05524b8f659e7bfe5756d1335fec24ba Assembly-UnityScript.dll:.TimeWalk - Restart Level
 3c131bc1fcd62a99173616f1006723eb Assembly-CSharp.dll:.SVBoxSlider
+05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
+05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 22c235e1272a48f3e20a15f3f5552e59 Assembly-CSharp.dll:.UnityARFaceAnchorManager
 2041c871bc804feaa14f1713988c5c33 Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARVideo
 9edf7902d47b30c926fb59fe1da5b67d Assembly-CSharp.dll:UnityEngine.XR.iOS.EditorHitTest

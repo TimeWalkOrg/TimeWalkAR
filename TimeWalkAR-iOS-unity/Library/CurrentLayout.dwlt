@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 75
-    y: 71
+    x: 39
+    y: 59
     width: 2028
     height: 1231
   m_ShowMode: 4
@@ -336,8 +336,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 75
-    y: 993
+    x: 39
+    y: 981
     width: 1190
     height: 287
   m_MaximizeOnPlay: 0
@@ -412,8 +412,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 75
-    y: 120
+    x: 39
+    y: 108
     width: 1190
     height: 406
   m_SceneLighting: 1
@@ -449,7 +449,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.014655534, y: -0.9820169, z: 0.16745615, w: 0.08594493}
     speed: 2
-    m_Value: {x: 0.014655534, y: -0.9820169, z: 0.16745615, w: 0.08594493}
+    m_Value: {x: -0.014655538, y: 0.9820169, z: -0.16745615, w: -0.08594492}
   m_Size:
     m_Target: 5.532159
     speed: 2
@@ -611,15 +611,15 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 2
-    y: 19
+    x: 1233
+    y: 108
     width: 352
     height: 746
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 9cfbffff000000005435000040360000bc360000d0360000603700008c370000e4370000ec380000383900003c39000044390000023a00003c3a0000ec3a0000123b0000183c0000583e00004e3f00002a400000da400000f0400000ea4100002642000098420000f644000068460000a4470000
+    m_ExpandedIDs: 4cdcffff30ddffff40dfffff9cfbffff0000000040360000f0400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -684,13 +684,13 @@ MonoBehaviour:
   m_StartGridSize: 16
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/tbarnett/Desktop/Fix me/TimeWalkAR-iOS-unity
+  m_LastProjectPath: /Users/tbarnett/TimeWalkAR/TimeWalkAR-iOS-unity
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 06000000
     m_LastClickedID: 6
-    m_ExpandedIDs: 00000000e22800000e290000202c00009c2e0000722f0000ee2f00005e320000de3200005e5e0000
+    m_ExpandedIDs: 00000000dc280000082900001a2c0000962e00006c2f0000e82f000058320000d8320000645e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -718,7 +718,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e22800000e290000202c00009c2e0000722f0000ee2f00005e320000de3200005e5e0000
+    m_ExpandedIDs: 00000000dc280000082900001a2c0000962e00006c2f0000e82f000058320000d8320000645e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -795,8 +795,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1550
-    y: 19
+    x: 1589
+    y: 108
     width: 478
     height: 1160
   m_ScrollPosition: {x: 0, y: 0}

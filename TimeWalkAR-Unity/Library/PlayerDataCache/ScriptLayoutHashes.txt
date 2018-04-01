@@ -1,6 +1,6 @@
 Android
 SceneListBegin?
-Assets/androidDaydreamTimeWalkAR.unity
+Assets/Scenes/androidDaydreamTimeWalkAR.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LevelReset
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARKitControl
@@ -255,7 +255,6 @@ fd3c9eb1b0a69002429092150dbd6076 Assembly-CSharp.dll:.soundDelay
 16ae33ee0fbf8362ac99a6fb3e017cb6 Assembly-CSharp.dll:.FocusSquare
 773659ee139465de815012b250038305 Assembly-CSharp.dll:GoogleVR.VideoDemo.VideoPlayerReference
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.InstantPreviewHelper
-fd3c9eb1b0a69002429092150dbd6076 Assembly-CSharp.dll:.BarkDelay
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Gvr.Internal.EmulatorManager
 2e17a560640e5f49e37d578ca18a306f Assembly-CSharp.dll:.CC_Vibrance
 3073f6d8af9d737e4e72afa03e0ce866 Assembly-CSharp.dll:UnityStandardAssets.SceneUtils.PlaceTargetWithMouse

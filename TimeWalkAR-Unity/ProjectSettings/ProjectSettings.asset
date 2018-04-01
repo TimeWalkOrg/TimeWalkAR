@@ -159,7 +159,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Company.ProductName
+    Android: com.TimeWalk.TimeWalkAR
     Standalone: unity.Unity Technologies.Native Rendering Plugin Example
     Tizen: com.Company.ProductName
     iOS: com.timewalk.depot
@@ -167,7 +167,7 @@ PlayerSettings:
   buildNumber:
     iOS: 1
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 16
+  AndroidMinSdkVersion: 25
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
@@ -262,7 +262,7 @@ PlayerSettings:
   AndroidKeyaliasName: 
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
-  AndroidEnableTango: 1
+  AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
   m_AndroidBanners:
@@ -304,7 +304,6 @@ PlayerSettings:
     m_Enabled: 1
     m_Devices:
     - daydream
-    - cardboard
   - m_BuildTarget: Metro
     m_Enabled: 0
     m_Devices: []

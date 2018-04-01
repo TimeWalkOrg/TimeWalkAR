@@ -8128,12 +8128,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 389255504}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 5.5, z: 11.3}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -27.066664, y: 5.916065, z: 9.721879}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_Father: {fileID: 1108728550}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &390902453
 Prefab:
@@ -11951,7 +11951,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 603307178}
   m_LocalRotation: {x: -0, y: -1, z: -0, w: 0}
-  m_LocalPosition: {x: -3.42, y: -1.3570392, z: 4.59}
+  m_LocalPosition: {x: -30.486664, y: -0.940974, z: 3.011879}
   m_LocalScale: {x: 20, y: 20, z: 20}
   m_Children:
   - {fileID: 1035006671}
@@ -11964,8 +11964,8 @@ Transform:
   - {fileID: 2122686039}
   - {fileID: 2033091030}
   - {fileID: 375826281}
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 1108728550}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &603837278
 GameObject:
@@ -14991,11 +14991,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 737665647}
   m_LocalRotation: {x: 0.37752593, y: -0.0094175525, z: 0.20454359, w: 0.9030767}
-  m_LocalPosition: {x: -5.26, y: 18.57, z: -9.96}
+  m_LocalPosition: {x: -32.326664, y: 18.986065, z: -11.538121}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_Father: {fileID: 1108728550}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 43.292004, y: 10.884001, z: 29.854002}
 --- !u!1 &746117317
 GameObject:
@@ -22510,6 +22510,37 @@ Transform:
   - {fileID: 1529661821}
   m_Father: {fileID: 1950237153}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1108728549
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1108728550}
+  m_Layer: 0
+  m_Name: Depot Scene
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1108728550
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1108728549}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 27.066664, y: -0.41606522, z: 1.5781212}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 603307179}
+  - {fileID: 737665649}
+  - {fileID: 389255506}
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1123469536
 GameObject:

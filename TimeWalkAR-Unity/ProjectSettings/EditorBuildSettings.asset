@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/androidDaydreamTimeWalkAR.unity
-    guid: 1b8ac4008c23dd946bdc3ff7cfb2f6da
+    path: Assets/mainScene.unity
+    guid: 6b4dfa185692d5845a2ea326c63f195f

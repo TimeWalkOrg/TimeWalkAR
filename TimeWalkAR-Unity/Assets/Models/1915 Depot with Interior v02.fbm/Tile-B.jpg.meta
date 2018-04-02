@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: e06f55d9873a74f7e8b8f73bc4fefc9a
-timeCreated: 1513542132
+guid: a107759fb5c6d864a9857eef925d45a7
+timeCreated: 1522625666
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
@@ -65,6 +65,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []

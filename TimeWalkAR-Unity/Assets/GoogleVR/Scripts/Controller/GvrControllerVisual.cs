@@ -336,7 +336,4 @@ public class GvrControllerVisual : MonoBehaviour, IGvrArmModelReceiver {
     }
   }
 
-  public void SetControllerTexture(Texture newTexture) {
-    controllerRenderer.material.mainTexture = newTexture;
-  }
 }

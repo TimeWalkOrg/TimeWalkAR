@@ -427,3 +427,15 @@ d885ad79a6ef5bfe2ce10637aac0b8a0 Assembly-CSharp.dll:GoogleVR.VideoDemo.AutoPlay
 9aa8dd2aef044cb9317a83686b04f7c9 Assembly-CSharp.dll:DaydreamElements.Common.GlobalDynamicWindColorSimple
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:DaydreamElements.Main.SwipeMenuLevelSelectResponder
 879549eeb20ce7b53c4bf2c6868f38bc Assembly-CSharp.dll:DaydreamElements.Chase.ScoreTracker
+fa24e0f9c01f85b44decc6f10efe1935 Assembly-CSharp.dll:.FlockScare
+3b96cef1c005f8771fac4078a48f93b2 Assembly-CSharp.dll:.LandingButtons
+7d5ae6e8863d3aeabab184263a30817b Assembly-CSharp.dll:.UnluckDistanceDisabler
+a4cd29ceaf60d8879a0aafd3a426521d Assembly-CSharp.dll:.RandomMaterial
+88b5764848454d191ab0662c86522fb3 Assembly-CSharp.dll:.FlockController
+a03f01095f8e9fd71915739580e0f69d Assembly-CSharp.dll:.FlockChild
+165edb685ce063b7a0c697fb25805529 Assembly-CSharp.dll:.FlockWaypointTrigger
+76b417d375221aa22b15933da46221e3 Assembly-CSharp.dll:.LandingSpotController
+169eba1d5e0366f9dda846da0d98a32f Assembly-CSharp.dll:.LookAtCamera
+80d949838951042e26ebf2a45626babb Assembly-CSharp.dll:.SmoothCameraOrbit
+d066e3ab64c9d08b6023008f3df4aa32 Assembly-CSharp.dll:.LandingSpot
+9079a5ff674d649a5b070f2b3d4d6b50 Assembly-CSharp.dll:.FlockChildSound

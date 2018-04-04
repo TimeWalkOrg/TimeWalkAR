@@ -9,6 +9,7 @@ SceneListEnd?
 176f67aae4ec7273cfef37fd8876bd9a Assembly-CSharp.dll:.GvrDropdown
 c9737d14ba7a2fc69347a243e2d68150 Assembly-CSharp.dll:GoogleVR.GVRDemo.HeadsetDemoManager
 93cca31f5cbd2803a0e510337106afb9 Assembly-CSharp.dll:.CC_RadialBlur
+0c722b1cd42b477f6df45b818ac9d813 Assembly-CSharp.dll:.VisibleSkeleton
 50bb80ab5d0fb836ff0040173a448891 Assembly-CSharp.dll:.CC_Wiggle
 fa61c99c7cb7544a43632df12f109032 Assembly-UnityScript.dll:.BearWalking
 10474f85d0bd228b11f6fa9116bd44d0 Assembly-CSharp.dll:.CC_BleachBypass
@@ -271,6 +272,7 @@ b0d0659c331028eb7b8c4229d302eac3 Assembly-CSharp.dll:.CC_Halftone
 3d91b111da4e2e15d1aca30003ebb382 Assembly-UnityScript.dll:.PlaySoundsRandomly
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:DaydreamElements.Main.ArmModelsLevelSelectResponder
 6c375926322484c29b025e1710b424ba Assembly-CSharp.dll:DaydreamElements.Main.LevelSelectPage
+ef691d285e0f5f26e8ee0eaa4254a05f Assembly-CSharp.dll:.RotateAround
 6b7aae40dc286eb4147f1db83f9545d7 Assembly-CSharp.dll:DaydreamElements.ObjectManipulation.HingeConstraint
 cbdbf388f2228222b2f18b916cfe8e53 Assembly-CSharp.dll:DaydreamElements.Main.BreadcrumbTrail
 8630b7483e7a2ff4511932bea44dbd2f Assembly-CSharp.dll:DaydreamElements.ClickMenu.PainterStroke
@@ -390,9 +392,11 @@ f12b46990184302ae413ff95cea31566 Assembly-CSharp.dll:DaydreamElements.Common.Fad
 c2d8308d9cb8cf4c7bec17ce048fba52 Assembly-CSharp.dll:DaydreamElements.ArmModels.Trail
 adeee37832832d9d2a66982899ef6a8e Assembly-CSharp.dll:daydreamrenderer.DDRSettings
 77b6f50cdf32d794bc1eaabeba943cee Assembly-CSharp.dll:DaydreamElements.ArmModels.VisualizeArmModel
+9a9644d7617f9055f26fbf3c679f2afa Assembly-CSharp.dll:.FreeCamera
 3ca7d0febb638be26da342a1daaca59d Assembly-CSharp.dll:DaydreamElements.ObjectManipulation.FlexReticle
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.AppButtonDownTrigger
 9c468a89fb093f17a578e2fef0d8b901 Assembly-CSharp.dll:DaydreamElements.ArmModels.SetActiveAnimated
+f7ccda91e9fdae9a3ebded9fd0dc1be4 Assembly-CSharp.dll:.RigMeister2000
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:DaydreamElements.Common.TileScrollEffect
 0e74ad39069e96bb747b34b2af2f51ac Assembly-CSharp.dll:DaydreamElements.ArmModels.HideByScale
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:GoogleVR.VideoDemo.VideoControlsManager
